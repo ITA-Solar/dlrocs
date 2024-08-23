@@ -6,7 +6,7 @@ repo_name: ita-solar/dlrocs
 repo_url: https://github.com/ita-solar/dlrocs
 
 nav:
-    - Home: home.md
+    - Home: index.md
     - Programme: programme.md
     - Team: team.md
     - Practical information: info.md
@@ -24,7 +24,8 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
+      primary: amber
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -32,6 +33,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: amber
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
