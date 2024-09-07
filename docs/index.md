@@ -6,7 +6,6 @@ During this week, we will have a series of talks, discussions, and hands-on sess
 
 The goal of the workshop is to bring together researchers working on deep learning techniques in solar physics to share their knowledge, discuss the latest developments in the field, and foster collaborations. The workshop will be an opportunity for participants to present their work, exchange ideas, and learn from each other.
 
-
 <div style="position: relative; display: inline-block;">
   <img src="https://www.discover-the-world.com/app/uploads/2021/10/norway-oslo-cityscape-from-ekebergparken-istk-1800x0-c-default.jpg" alt="Oslo Cityscape" style="width: 100%;">
   <div style="position: absolute; bottom: 8px; left: 8px; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; font-size: 12px;">
