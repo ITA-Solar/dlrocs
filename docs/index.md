@@ -1,4 +1,4 @@
-# Deep Learning RoCS 2024
+# Deep Learning Workshop at RoCS (DLRoCS)
 
 The **Deep Learning Workshop at the Rosseland Centre for Solar Physics (RoCS)** will take place as a in-person meeting in the week 16-20 September 2024, in Oslo, Norway.
 
