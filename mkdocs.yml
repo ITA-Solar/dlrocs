@@ -8,16 +8,20 @@ repo_url: https://github.com/ita-solar/dlrocs
 nav:
     - Home: index.md
     - Programme: programme.md
-    - Team: team.md
+    # - Team: team.md
     - Practical information: info.md
 
 theme:
   name: 'material'
+  logo: false
   font: false   # avoid Google fonts for GDPR compliance
   palette:
         
     # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: amber
+      accent: deep orange
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
@@ -27,7 +31,7 @@ theme:
       scheme: default
       primary: amber
       toggle:
-        icon: material/brightness-7
+        icon: material/brightness-6
         name: Switch to dark mode
 
     # Palette toggle for dark mode
