@@ -1,4 +1,4 @@
-# Deep Learning at RoCS
+# Deep Learning workshop at RoCS
 
 This repository contains files relating to Deep Learning at the Rosseland Centre for Solar Physics. The webpage is available at https://ita-solar.github.io/dlrocs. To compile the webpage locally, install the dependencies with `pip install -r requirements.txt` and run `mkdocs serve`.
 
