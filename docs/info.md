@@ -5,8 +5,7 @@
 The accommodation of the participants is the Scandic Victoria Hotel, Rosenkrantzgate 13, 0121 Oslo, Norway. The hotel is located in the city center of Oslo, close to the National Theatre. The National Theatre station is a train station well connected to the airport, and a metro station too, which connects to the University where the venue is located.
 
 <div style="position: relative; display: inline-block;">
-  <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/d8/f9/05/scandic-victoria-oslo.jpg?w=700&h=-1&s=1
-  " style="width: 100%;">
+  <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/d8/f9/05/scandic-victoria-oslo.jpg?w=700&h=-1&s=1" style="width: 100%;">
   <div style="position: absolute; bottom: 8px; left: 8px; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; font-size: 12px;">
     Photo credit: Tripadvisor
   </div>
